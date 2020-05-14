@@ -9,8 +9,8 @@ use PhpOffice\PhpSpreadsheet\Writer\Xlsx;
 
 class PDFBeques
 {
-    public $file;
-    public $data;
+    private $file;
+    private $data;
 
     public function __construct($file)
     {
