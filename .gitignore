@@ -1,5 +1,6 @@
 composer.lock
 /vendor/
+/build/
 *.swp
 *cache
 tests/files/test.xlsx.tmp
